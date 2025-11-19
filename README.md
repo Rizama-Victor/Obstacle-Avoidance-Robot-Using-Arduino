@@ -29,7 +29,7 @@ surrounding objects. When an obstacle is detected within a predefined range, the
 | **Caster Wheel** | Supported the robot’s balance and assisted in smooth directional changes. |
 | **Jumper Wires** | Connected various components electrically to ensure proper signal and power transmission. |
 | **Breadboard** | Provided a platform for connecting circuit components without soldering. |
-| **Power Supply (Battery Pack)** | Supplied the required electrical power to the Arduino and motors. |
+| **Power Supply** | Supplied the required electrical power to the Arduino and motors. |
 | **Arduino IDE** | Was used to write, compile, and upload the obstacle avoidance program to the Arduino board. |
 
 ## 🪜 Step-by-Step Procedure
